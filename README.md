@@ -14,15 +14,21 @@ This project is a Computer Graphics & Multimedia (CGM) assignment that demonstra
 
 🛠️ Technologies Used
 Programming Language: C++
+
 Graphics Library: OpenGL (FreeGLUT/GLFW)
+
 Development Environment: Code::Blocks / Visual Studio
+
 🔧 Installation & Setup
+
 1️⃣ Install OpenGL, GLUT/GLFW, and GLEW.
+
 2️⃣ Clone the repository:
 
 [git clone https://github.com/yourusername/CGM-3D-House.git  ](https://github.com/LikhithaLakshmi/CGM-/blob/main/README.md)
 cd CGM-3D-House  
 3️⃣ Open the project in Code::Blocks or Visual Studio.
+
 4️⃣ Compile and run the code.
 
 🎮 Controls
