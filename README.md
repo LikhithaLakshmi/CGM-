@@ -1,3 +1,5 @@
+🏠 CGM 3D House
+A 3D house simulation using OpenGL and C++.
 📌 Overview
 This project is a Computer Graphics & Multimedia (CGM) assignment that demonstrates a 3D house model using OpenGL in C++. It includes essential graphical transformations, lighting, and textures to create a realistic rendering.
 
