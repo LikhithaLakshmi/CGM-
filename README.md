@@ -16,10 +16,7 @@ Development Environment: Code::Blocks / Visual Studio
 1️⃣ Install OpenGL, GLUT/GLFW, and GLEW.
 2️⃣ Clone the repository:
 
-sh
-Copy
-Edit
-git clone https://github.com/yourusername/CGM-3D-House.git  
+[git clone https://github.com/yourusername/CGM-3D-House.git  ](https://github.com/LikhithaLakshmi/CGM-/blob/main/README.md)
 cd CGM-3D-House  
 3️⃣ Open the project in Code::Blocks or Visual Studio.
 4️⃣ Compile and run the code.
