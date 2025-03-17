@@ -40,4 +40,4 @@ Arrow Keys	Rotate view
 + -	Zoom in/out
 L	Toggle lighting
 Esc	Exit program
-# CGM-
+
